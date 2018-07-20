@@ -1,2 +1,2 @@
 # hello-world
-Learning to use GitHub
+This is Shane Cleary
